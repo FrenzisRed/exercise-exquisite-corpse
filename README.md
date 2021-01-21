@@ -1,2 +1,9 @@
 # exercise-exquisite-corpse
 BeCode team exercise
+
+
+You find yourself in a dark room with no windows and a _soft light_ comming from the only working neon....
+Try to figure out where you are...
+      but mainly....
+            try to **escape the danger**,
+##                       find your way out !
